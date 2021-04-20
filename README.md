@@ -1,3 +1,5 @@
+  <!DOCTYPE html lang=’en’>
+  
   <button type="button" class="btn btn-primary">Add Task</button>
 
   <a href="#" class="list-group-item list-group-item-action">
