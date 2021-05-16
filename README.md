@@ -8,10 +8,12 @@
  <div>
   <form>
    <div class="row">
-    <div class="col"><input type="text" class="form-control" id = "firstName1" placeholder="First name">
-     </div>
-     <div class="col"><input type="text" class="form-control" id = "lastName1" placeholder="Last name">
-     </div>
+    <div class="col">
+      <input type="text" class="form-control" id = "firstName1" placeholder="First name">
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" id = "lastName1" placeholder="Last name">
+    </div>
    </div>
   </form>
  </div>
@@ -19,19 +21,11 @@
 
  <form>
   <div class="row">
-    <div class="col"><input type="text" class="form-control" id = "1stTask" placeholder="1st Task">
-    </div>
-    <div class="col"><input type="text" class="form-control" id = "2ndTask" placeholder="2nd Task">
-    </div>
-  </div>
- </form>
-
- <form>
-  <div class="row">
-    <div class="col"><input type="text" class="form-control" id = "3rdTask" placeholder="3rd Task">
+    <div class="col">
+      <input type="text" class="form-control" id = "Task1" placeholder="1st Task">
     </div>
     <div class="col">
-      <input type="text" class="form-control" id = "4thTask" placeholder="4th Task">
+      <input type="text" class="form-control" id = "Task2" placeholder="2nd Task">
     </div>
   </div>
  </form>
@@ -39,19 +33,32 @@
  <form>
   <div class="row">
     <div class="col">
-      <input type="text" class="form-control" id = "5thTask" placeholder="5th Task">
-    </div><div class="col">
-    <input type="text" class="form-control" id = "6thTask" placeholder="6th Task"></div>
+      <input type="text" class="form-control" id = "Task3" placeholder="3rd Task">
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" id = "Task4" placeholder="4th Task">
+    </div>
   </div>
  </form>
 
  <form>
   <div class="row">
     <div class="col">
-      <input type="text" class="form-control" id = "7th Task" placeholder="7thTask">
+      <input type="text" class="form-control" id = "Task5" placeholder="5th Task">
     </div>
     <div class="col">
-      <input type="text" class="form-control" id = "8thTask" placeholder="8th Task">
+      <input type="text" class="form-control" id = "Task6" placeholder="6th Task">
+    </div>
+  </div>
+ </form>
+
+ <form>
+  <div class="row">
+    <div class="col">
+      <input type="text" class="form-control" id = "Task7" placeholder="7thTask">
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" id = "Task8" placeholder="8th Task">
     </div>
   </div>
  </form>
